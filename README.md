@@ -30,7 +30,7 @@ My work follows the "Defense in Depth" philosophy, ensuring that security is not
 - **Data Analytics**:
     - Integrated custom aggregation logic to transform raw timestamp data into actionable productivity heatmaps.
 
-#### 🌉 PROJECT BETA: [Bridge Collaborate](https://bridge-collaborate.pages.dev)
+#### 🌉 PROJECT BETA: [Bridge Collaborate](https://bridge-os.pages.dev)
 **Domain:** Middleware Systems & Synchronous Data Connectivity
 **Stack:** `React`, `TypeScript`, `Node.js`, `WebSocket (Socket.io)`, `Express`
 
