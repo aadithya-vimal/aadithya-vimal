@@ -1,7 +1,7 @@
 # <p align="center">🛡️ AADITHYA VIMAL | FULL-STACK SECURITY ARCHITECT & DATA SCIENTIST 🛡️</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=3670A0&center=true&vCenter=true&width=950&height=100&lines=Christ+University+B.Tech+Scholar+🛡️;9.55+GPA+Academic+Excellence+📊;Next.js+14+%2B+TypeScript+Architect+💻;Cybersecurity+Researcher+%26+Threat+Hunter+🔍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=3670A0&center=true&vCenter=true&width=950&height=100&lines=Christ+University+B.Tech+Scholar+🛡️;9.55+GPA+Academic+Excellence+📊;Next.js+15+%2B+TypeScript+Architect+💻;Cybersecurity+Researcher+%26+Threat+Hunter+🔍" alt="Typing SVG" />
 </p>
 
 ---
@@ -30,20 +30,19 @@ My work follows the "Defense in Depth" philosophy, ensuring that security is not
 - **Data Analytics**:
     - Integrated custom aggregation logic to transform raw timestamp data into actionable productivity heatmaps.
 
-#### 🌉 PROJECT BETA: [Bridge Collaborate](https://bridge-os.pages.dev)
-**Domain:** Middleware Systems & Synchronous Data Connectivity
-**Stack:** `React`, `TypeScript`, `Node.js`, `WebSocket (Socket.io)`, `Express`
+#### 🌌 PROJECT BETA: [Axovanth](https://axovanth.pages.dev)
+**Domain:** Enterprise Operating System & Real-Time Governance
+**Stack:** `Next.js 15`, `Convex (Real-time FaaS)`, `TypeScript`, `Clerk`, `Lucide React`
 
-- **Architectural Philosophy**: A high-integrity middleware solution focused on the seamless integration of disparate data streams in a collaborative environment.
+- **Architectural Philosophy**: A hyper-optimized Enterprise Control Plane replacing disjointed SaaS tools with a unified, event-driven command center utilizing reactive database streams.
 - **Technical Implementation Details**:
-    - **Bi-Directional Communication**: Developed a robust WebSocket layer with auto-reconnection logic and heartbeat monitoring to ensure 99.9% uptime for data synchronization.
-    - **Type-Safe Transformation**: Heavily utilized TypeScript Generics to build a data transformation engine that maps legacy data structures to modern API schemas without runtime overhead.
-    - **Event-Driven UI**: Built a highly responsive dashboard using Framer Motion for fluid transitions between complex data states.
+    - **Real-Time Synchronization Protocol**: Replaced traditional REST polling with Convex's WebSocket-based subscription model, achieving sub-millisecond state propagation across distributed client nodes.
+    - **Edge Runtime Enforcement**: Configured API routes to execute on the Edge, minimizing cold starts and ensuring low-latency global access for critical workspace operations.
+    - **High-Density UI Construction**: Designed a "God-Mode" interface using Glassmorphism principles and Tailwind CSS, optimizing information density for complex administrative workflows.
 - **Security Posture**:
-    - Integrated Socket.io middleware for token-based authentication (JWT) during the initial handshake.
-    - Implemented Rate Limiting and Payload Size Constraints to mitigate DoS/DDoS vectors on open WebSocket ports.
-- **Intelligence Layer**:
-    - Designed real-time monitoring alerts that trigger based on anomalous data patterns within the integration stream.
+    - **Granular RBAC Kernel**: Engineered a custom Identity Matrix merging Clerk authentication with internal logic to handle complex, multi-tenant permission scopes (Organization level vs. Workspace level).
+    - **Logical Isolation**: Implemented strict permission boundaries between "Departmental Nodes," ensuring data from Engineering cannot bleed into Legal or HR environments.
+    - **Immutable Audit Logging**: Integrated a write-only ledger system that tracks state mutations (transfers, deletions, role changes) for compliance and forensic analysis.
 
 #### 🚀 PROJECT GAMMA: [ThreatStream](https://threatstream.pages.dev)
 **Domain:** Network Security Intelligence & Traffic Analysis
@@ -70,9 +69,9 @@ My work follows the "Defense in Depth" philosophy, ensuring that security is not
 
 | LAYER | TECHNOLOGIES | SPECIALIZATIONS |
 | :--- | :--- | :--- |
-| **Frontend Architecture** | Next.js 14, React, TypeScript | SSR, SSG, Optimistic UI, Atomic Design |
-| **Backend & APIs** | Node.js, Express, Prisma, REST, GraphQL | Middleware Design, Microservices, WebSockets |
-| **Database & Storage** | PostgreSQL, MySQL, MongoDB, Redis | Schema Design, Query Optimization, ACID Compliance |
+| **Frontend Architecture** | Next.js 15, React, TypeScript | SSR, SSG, Optimistic UI, Atomic Design |
+| **Backend & APIs** | Convex, Node.js, Express, REST | Real-time Databases, Middleware Design, Serverless Functions |
+| **Database & Storage** | PostgreSQL, MySQL, Redis | Schema Design, Query Optimization, ACID Compliance |
 | **Cybersecurity Suite** | Kali Linux, Wireshark, Nmap, Metasploit | Penetration Testing, Traffic Analysis, Hardening |
 | **Data Intelligence** | Python, Pandas, NumPy, Scikit-learn | Exploratory Data Analysis (EDA), Statistical Modeling |
 | **DevOps & Cloud** | Docker, GitHub Actions, AWS, Vercel | CI/CD Pipelines, Containerization, IaC |
@@ -96,5 +95,3 @@ My work follows the "Defense in Depth" philosophy, ensuring that security is not
 - **LinkedIn**: [aadithyavimal](https://www.linkedin.com/in/aadithyavimal/)
 - **Institutional Profile**: B.Tech Student, **Christ University**
 - **Current Technical Objective**: Advancing Secure DevOps (DevSecOps) integration in serverless architectures.
-
----
