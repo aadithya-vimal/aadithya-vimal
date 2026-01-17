@@ -1,70 +1,83 @@
 # <p align="center">🛡️ AADITHYA VIMAL | FULL-STACK SECURITY ARCHITECT & DATA SCIENTIST 🛡️</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=3670A0&center=true&vCenter=true&width=950&height=100&lines=Christ+University+B.Tech+Scholar+🛡️;9.55+GPA+Academic+Excellence+📊;Next.js+15+%2B+TypeScript+Architect+💻;Cybersecurity+Researcher+%26+Threat+Hunter+🔍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3670A0&center=true&vCenter=true&width=950&height=70&lines=Christ+University+B.Tech+Scholar+🛡️;9.55+GPA+Academic+Excellence+📊;Next.js+15+%2B+TypeScript+Architect+💻;Cybersecurity+Researcher+%26+Threat+Hunter+🔍" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aadithya-vimal&label=Profile%20views&color=ffcc00&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-### 🏛️ 0x01: EXECUTIVE ACADEMIC SUMMARY
-I am a specialized Researcher and Developer at **Christ University**, operating at the intersection of **Advanced Cybersecurity**, **Predictive Data Science**, and **High-Performance Full-Stack Engineering**. With a consistent academic standing of a **9.55 GPA**, my professional focus is the implementation of type-safe, resilient architectures that mitigate modern attack vectors while maximizing computational efficiency.
+## 🛡️ 0x01: Executive Summary
 
-My work follows the "Defense in Depth" philosophy, ensuring that security is not an add-on, but an intrinsic property of the application lifecycle—from initial data modeling to frontend state management.
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      
+### 👋 Hello, World!
+
+I am a specialized **Researcher and Developer** at **Christ University**, operating at the intersection of **Advanced Cybersecurity**, **Predictive Data Science**, and **High-Performance Full-Stack Engineering**. 
+
+- 🎓 **Academic Standing:** Consistent **9.55 GPA**.
+- 🔭 **Philosophy:** "Defense in Depth"—security is an intrinsic property, not an add-on.
+- 🌱 **Focus:** Implementation of type-safe, resilient architectures that mitigate modern attack vectors while maximizing computational efficiency.
+- 👯 **Looking to collaborate on:** DevSecOps integration in serverless architectures.
+
+> _"I build, break, debug, and secure ideas into reality."_
+
+    </td>
+    <td valign="center" width="40%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBqMXc1eGpvdGFxNXBmc3hnOWF3anAyd2xzdnY3Zm05c2J6eG1iNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7abKhOpu0NwenH3O/giphy.gif"
+        width="100%" alt="coding gif" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 0x02: DEEP-DIVE PROJECT ARCHITECTURES
+## 🚀 0x02: Deep-Dive Architectures
 
-#### 🥊 PROJECT ALPHA: [PunchIn Tracker](https://punchin-tracker.pages.dev)
+### 🥊 **[PunchIn Tracker](https://punchin-tracker.pages.dev)**
 **Domain:** Enterprise Resource Management & Operational Analytics
-**Stack:** `Next.js 14`, `TypeScript`, `Tailwind CSS`, `Prisma`, `PostgreSQL`
+<br>
+`Next.js 14` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL`
 
-- **Architectural Philosophy**: Designed as a high-concurrency multi-tenant platform for synchronized attendance and performance tracking.
-- **Technical Implementation Details**:
-    - **Frontend State Management**: Leveraged React Context and custom hooks for optimistic UI updates, ensuring a sub-100ms perceived latency during high-frequency data entry.
-    - **Server-Side Optimization**: Utilized Next.js Server Components (RSC) to minimize client-side JavaScript bundles, resulting in a Lighthouse performance score of 98+.
-    - **Database Schema**: Engineered a relational PostgreSQL schema with complex indexing and views to generate real-time performance metrics across thousands of concurrent sessions.
-- **Security Posture**:
-    - Implemented CSRF protection and Secure Cookie handling for session management.
-    - Standardized data sanitization using Zod for schema validation, preventing injection attacks at the edge.
-- **Data Analytics**:
-    - Integrated custom aggregation logic to transform raw timestamp data into actionable productivity heatmaps.
+Designed as a high-concurrency multi-tenant platform for synchronized attendance and performance tracking.
+* **Frontend State Management:** Leveraged React Context and custom hooks for optimistic UI updates, ensuring a **sub-100ms perceived latency** during high-frequency data entry.
+* **Server-Side Optimization:** Utilized Next.js Server Components (RSC) to minimize client-side JavaScript bundles, resulting in a **Lighthouse performance score of 98+**.
+* **Database Schema:** Engineered a relational PostgreSQL schema with complex indexing and views to generate real-time performance metrics across thousands of concurrent sessions.
+* **Security Posture:** Implemented CSRF protection, Secure Cookie handling, and standardized data sanitization using **Zod** for schema validation.
 
-#### 🌌 PROJECT BETA: [Axovanth](https://axovanth.pages.dev)
+### 🌌 **[Axovanth](https://axovanth.pages.dev)**
 **Domain:** Enterprise Operating System & Real-Time Governance
-**Stack:** `Next.js 15`, `Convex (Real-time FaaS)`, `TypeScript`, `Clerk`, `Lucide React`
+<br>
+`Next.js 15` `Convex (Real-time FaaS)` `TypeScript` `Clerk` `Lucide React`
 
-- **Architectural Philosophy**: A hyper-optimized Enterprise Control Plane replacing disjointed SaaS tools with a unified, event-driven command center utilizing reactive database streams.
-- **Technical Implementation Details**:
-    - **Real-Time Synchronization Protocol**: Replaced traditional REST polling with Convex's WebSocket-based subscription model, achieving sub-millisecond state propagation across distributed client nodes.
-    - **Edge Runtime Enforcement**: Configured API routes to execute on the Edge, minimizing cold starts and ensuring low-latency global access for critical workspace operations.
-    - **High-Density UI Construction**: Designed a "God-Mode" interface using Glassmorphism principles and Tailwind CSS, optimizing information density for complex administrative workflows.
-- **Security Posture**:
-    - **Granular RBAC Kernel**: Engineered a custom Identity Matrix merging Clerk authentication with internal logic to handle complex, multi-tenant permission scopes (Organization level vs. Workspace level).
-    - **Logical Isolation**: Implemented strict permission boundaries between "Departmental Nodes," ensuring data from Engineering cannot bleed into Legal or HR environments.
-    - **Immutable Audit Logging**: Integrated a write-only ledger system that tracks state mutations (transfers, deletions, role changes) for compliance and forensic analysis.
+A hyper-optimized Enterprise Control Plane replacing disjointed SaaS tools with a unified, event-driven command center.
+* **Real-Time Protocol:** Replaced traditional REST polling with Convex's WebSocket-based subscription model, achieving **sub-millisecond state propagation** across distributed client nodes.
+* **Edge Runtime:** Configured API routes to execute on the Edge, minimizing cold starts and ensuring low-latency global access.
+* **Security (RBAC Kernel):** Engineered a custom Identity Matrix merging Clerk authentication with internal logic to handle complex, multi-tenant permission scopes (Organization vs. Workspace).
+* **Immutable Audit Logging:** Integrated a write-only ledger system that tracks state mutations (transfers, deletions, role changes) for compliance and forensic analysis.
 
-#### 🚀 PROJECT GAMMA: [ThreatStream](https://threatstream.pages.dev)
+### 🚀 **[ThreatStream](https://threatstream.pages.dev)**
 **Domain:** Network Security Intelligence & Traffic Analysis
-**Stack:** `Python`, `Scapy`, `Pandas`, `NumPy`, `Matplotlib`, `Kali Linux`
+<br>
+`Python` `Scapy` `Pandas` `NumPy` `Matplotlib` `Kali Linux`
 
-- **Architectural Philosophy**: An advanced network defense engine focused on packet-level analysis and predictive threat identification.
-- **Technical Implementation Details**:
-    - **Traffic Sniffing Engine**: Engineered custom Scapy scripts for raw packet capture and filtering, targeting specific protocols (TCP/UDP/ICMP) for diagnostic reporting.
-    - **Data Lifecycle**: Raw PCAP data is cleaned and vectorized using NumPy before being processed by Pandas for high-speed statistical analysis.
-    - **Visual Intelligence**: Automated the generation of network topology and threat-distribution graphs using Matplotlib for security operations center (SOC) visualization.
-- **Security Hardening & Pentesting**:
-    - Applied Google Cybersecurity Professional standards to perform vulnerability assessments on local network environments.
-    - Executed signature-based detection for common attack vectors, including SYN floods and ARP poisoning.
-- **ML Potential**:
-    - Structured the data pipeline to support future Scikit-learn integration for anomaly-based (unsupervised) threat detection.
+An advanced network defense engine focused on packet-level analysis and predictive threat identification.
+* **Traffic Sniffing Engine:** Engineered custom **Scapy** scripts for raw packet capture and filtering, targeting specific protocols (TCP/UDP/ICMP) for diagnostic reporting.
+* **Data Lifecycle:** Raw PCAP data is cleaned and vectorized using **NumPy** before being processed by **Pandas** for high-speed statistical analysis.
+* **Visual Intelligence:** Automated the generation of network topology and threat-distribution graphs using **Matplotlib** for SOC visualization.
+* **Security Hardening:** Executed signature-based detection for common attack vectors, including SYN floods and ARP poisoning.
 
 ---
 
-### ⚡ 0x03: TECHNICAL ARSENAL & TOOLCHAIN
+## ⚡ 0x03: TECHNICAL ARSENAL & TOOLCHAIN
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,react,nodejs,electron,py,linux,mysql,postgres,mongodb,tailwind,vite,git,docker,aws,postman,powershell,figma,cpp,c,bash" />
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,react,nodejs,electron,py,linux,mysql,postgres,mongodb,tailwind,vite,git,docker,aws,postman,vscode,figma,cpp,c,bash" />
 </div>
 
 | LAYER | TECHNOLOGIES | SPECIALIZATIONS |
@@ -78,7 +91,7 @@ My work follows the "Defense in Depth" philosophy, ensuring that security is not
 
 ---
 
-### 📈 0x04: DEVELOPMENT METRICS & ACTIVITY
+## 📈 0x04: Metrics & Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadithya-vimal&theme=dark" width="100%" />
@@ -91,7 +104,15 @@ My work follows the "Defense in Depth" philosophy, ensuring that security is not
 
 ---
 
-### 📫 0x05: PROFESSIONAL CONNECTIVITY
-- **LinkedIn**: [aadithyavimal](https://www.linkedin.com/in/aadithyavimal/)
-- **Institutional Profile**: B.Tech Student, **Christ University**
-- **Current Technical Objective**: Advancing Secure DevOps (DevSecOps) integration in serverless architectures.
+## 📫 0x05: Connect with me
+<p align="center">
+  <a href="https://aadithyavimal.pages.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/aadithya-vimal/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aadithyavimal.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
