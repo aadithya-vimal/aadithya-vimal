@@ -15,22 +15,18 @@
 <table>
   <tr>
     <td valign="top" width="60%">
-      
-### 👋 Hello, World!
-
-I am a specialized **Researcher and Developer** at **Christ University**, operating at the intersection of **Advanced Cybersecurity**, **Predictive Data Science**, and **High-Performance Full-Stack Engineering**. 
-
-- 🎓 **Academic Standing:** Consistent **9.55 GPA**.
-- 🔭 **Philosophy:** "Defense in Depth"—security is an intrinsic property, not an add-on.
-- 🌱 **Focus:** Implementation of type-safe, resilient architectures that mitigate modern attack vectors while maximizing computational efficiency.
-- 👯 **Looking to collaborate on:** DevSecOps integration in serverless architectures.
-
-> _"I build, break, debug, and secure ideas into reality."_
-
+      <h3>👋 Hello, World!</h3>
+      <p>I am a specialized <b>Researcher and Developer</b> at <b>Christ University</b>, operating at the intersection of <b>Advanced Cybersecurity</b>, <b>Predictive Data Science</b>, and <b>High-Performance Full-Stack Engineering</b>.</p>
+      <ul>
+        <li>🎓 <b>Academic Standing:</b> Consistent <b>9.55 GPA</b>.</li>
+        <li>🔭 <b>Philosophy:</b> "Defense in Depth"—security is an intrinsic property, not an add-on.</li>
+        <li>🌱 <b>Focus:</b> Implementation of type-safe, resilient architectures that mitigate modern attack vectors while maximizing computational efficiency.</li>
+        <li>👯 <b>Looking to collaborate on:</b> DevSecOps integration in serverless architectures.</li>
+      </ul>
+      <blockquote><i>"I build, break, debug, and secure ideas into reality."</i></blockquote>
     </td>
     <td valign="center" width="40%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBqMXc1eGpvdGFxNXBmc3hnOWF3anAyd2xzdnY3Zm05c2J6eG1iNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7abKhOpu0NwenH3O/giphy.gif"
-        width="100%" alt="coding gif" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBqMXc1eGpvdGFxNXBmc3hnOWF3anAyd2xzdnY3Zm05c2J6eG1iNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" alt="coding gif" />
     </td>
   </tr>
 </table>
@@ -79,6 +75,7 @@ An advanced network defense engine focused on packet-level analysis and predicti
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,ts,react,nodejs,electron,py,linux,mysql,postgres,mongodb,tailwind,vite,git,docker,aws,postman,vscode,figma,cpp,c,bash" />
 </div>
+<br>
 
 | LAYER | TECHNOLOGIES | SPECIALIZATIONS |
 | :--- | :--- | :--- |
