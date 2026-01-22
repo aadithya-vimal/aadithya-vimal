@@ -18,7 +18,6 @@
       <h3>👋 Hello, World!</h3>
       <p>I am a specialized <b>Researcher and Developer</b> at <b>Christ University</b>, operating at the intersection of <b>Advanced Cybersecurity</b>, <b>Predictive Data Science</b>, and <b>High-Performance Full-Stack Engineering</b>.</p>
       <ul>
-        <li>🎓 <b>Academic Standing:</b> Consistent <b>9.55 GPA</b>.</li>
         <li>🔭 <b>Philosophy:</b> "Defense in Depth"—security is an intrinsic property, not an add-on.</li>
         <li>🌱 <b>Focus:</b> Implementation of type-safe, resilient architectures that mitigate modern attack vectors while maximizing computational efficiency.</li>
         <li>👯 <b>Looking to collaborate on:</b> DevSecOps integration in serverless architectures.</li>
@@ -79,7 +78,7 @@ An advanced network defense engine focused on packet-level analysis and predicti
 
 | LAYER | TECHNOLOGIES | SPECIALIZATIONS |
 | :--- | :--- | :--- |
-| **Frontend Architecture** | Next.js 15, React, TypeScript | SSR, SSG, Optimistic UI, Atomic Design |
+| **Frontend Architecture** | Next.js 15, React, TypeScript | SSR, SSG, Optimistic UI, Atomic Design, TailwaindCSS, DaisyUI |
 | **Backend & APIs** | Convex, Node.js, Express, REST | Real-time Databases, Middleware Design, Serverless Functions |
 | **Database & Storage** | PostgreSQL, MySQL, Redis | Schema Design, Query Optimization, ACID Compliance |
 | **Cybersecurity Suite** | Kali Linux, Wireshark, Nmap, Metasploit | Penetration Testing, Traffic Analysis, Hardening |
