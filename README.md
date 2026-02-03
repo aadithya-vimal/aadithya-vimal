@@ -1,7 +1,7 @@
 # <p align="center">🛡️ AADITHYA VIMAL | FULL-STACK SECURITY ARCHITECT & DATA SCIENTIST 🛡️</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3670A0&center=true&vCenter=true&width=950&height=70&lines=Christ+University+B.Tech+Scholar+🛡️;9.55+GPA+Academic+Excellence+📊;Next.js+15+%2B+TypeScript+Architect+💻;Cybersecurity+Researcher+%26+Threat+Hunter+🔍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3670A0&center=true&vCenter=true&width=950&height=70&lines=Christ+University+B.Tech+Scholar+🛡️;Next.js+15+%2B+TypeScript+Architect+💻;Cybersecurity+Researcher+%26+Threat+Hunter+🔍" alt="Typing SVG" />
 </p>
 
 <p align="center">
