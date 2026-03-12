@@ -55,6 +55,17 @@ A hyper-optimized Enterprise Control Plane replacing disjointed SaaS tools with 
 * **Edge Runtime:** Configured API routes to execute on the Edge, minimizing cold starts and ensuring low-latency global access.
 * **Security (RBAC Kernel):** Engineered a custom Identity Matrix merging Clerk authentication with internal logic to handle complex, multi-tenant permission scopes (Organization vs. Workspace).
 * **Immutable Audit Logging:** Integrated a write-only ledger system that tracks state mutations (transfers, deletions, role changes) for compliance and forensic analysis.
++
++### 🔮 **[AURACLE](https://auracle.pages.dev)**
++**Domain:** Decentralized AI-Powered Market Intelligence on Solana
++<br>
++`React 18` `Vite` `Solana (Rust/Anchor)` `Groq LLM` `Python`
++
++An institutional-grade sentiment oracle bridging AI and blockchain by anchoring real-time social sentiment on-chain.
++* **Trustless Sentiment Oracle:** Operates as a verifiable intelligence layer, cryptographically signing and storing sentiment scores on the Solana blockchain.
++* **AI-Driven Inference:** Leverages Groq's Llama 3.1 70B infrastructure for sub-second sentiment analysis of social data streams.
++* **Vibe Engine (Hero UI):** A dynamic, glassmorphic dashboard featuring a "Living Orb" that visualizes market pulse and sentiment intensity.
++* **Transparency & Verification:** Implements a logic stream that exposes the AI's reasoning, including keyword impact weighting and confidence metrics.
 
 ### 🚀 **[ThreatStream](https://threatstream.pages.dev)**
 **Domain:** Network Security Intelligence & Traffic Analysis
@@ -90,12 +101,13 @@ An advanced network defense engine focused on packet-level analysis and predicti
 ## 📈 0x04: Metrics & Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadithya-vimal&theme=dark" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aadithya-vimal&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadithya-vimal&theme=radical&hide_border=true" width="49%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aadithya-vimal&theme=dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aadithya-vimal&theme=dark" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadithya-vimal&layout=compact&theme=radical&hide_border=true&langs_count=8" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadithya-vimal&theme=react-dark&bg_color=1a1b27&hide_border=true" width="49%" alt="Activity Graph" />
 </p>
 
 ---
