@@ -56,16 +56,16 @@ A hyper-optimized Enterprise Control Plane replacing disjointed SaaS tools with 
 * **Security (RBAC Kernel):** Engineered a custom Identity Matrix merging Clerk authentication with internal logic to handle complex, multi-tenant permission scopes (Organization vs. Workspace).
 * **Immutable Audit Logging:** Integrated a write-only ledger system that tracks state mutations (transfers, deletions, role changes) for compliance and forensic analysis.
 +
-+### 🔮 **[AURACLE](https://auracle.pages.dev)**
-+**Domain:** Decentralized AI-Powered Market Intelligence on Solana
-+<br>
-+`React 18` `Vite` `Solana (Rust/Anchor)` `Groq LLM` `Python`
-+
-+An institutional-grade sentiment oracle bridging AI and blockchain by anchoring real-time social sentiment on-chain.
-+* **Trustless Sentiment Oracle:** Operates as a verifiable intelligence layer, cryptographically signing and storing sentiment scores on the Solana blockchain.
-+* **AI-Driven Inference:** Leverages Groq's Llama 3.1 70B infrastructure for sub-second sentiment analysis of social data streams.
-+* **Vibe Engine (Hero UI):** A dynamic, glassmorphic dashboard featuring a "Living Orb" that visualizes market pulse and sentiment intensity.
-+* **Transparency & Verification:** Implements a logic stream that exposes the AI's reasoning, including keyword impact weighting and confidence metrics.
+### 🔮 **[AURACLE](https://auracle.pages.dev)**
+**Domain:** Decentralized AI-Powered Market Intelligence on Solana
+<br>
+`React 18` `Vite` `Solana (Rust/Anchor)` `Groq LLM` `Python`
+
+An institutional-grade sentiment oracle bridging AI and blockchain by anchoring real-time social sentiment on-chain.
+* **Trustless Sentiment Oracle:** Operates as a verifiable intelligence layer, cryptographically signing and storing sentiment scores on the Solana blockchain.
+* **AI-Driven Inference:** Leverages Groq's Llama 3.1 70B infrastructure for sub-second sentiment analysis of social data streams.
+* **Vibe Engine (Hero UI):** A dynamic, glassmorphic dashboard featuring a "Living Orb" that visualizes market pulse and sentiment intensity.
+* **Transparency & Verification:** Implements a logic stream that exposes the AI's reasoning, including keyword impact weighting and confidence metrics.
 
 ### 🚀 **[ThreatStream](https://threatstream.pages.dev)**
 **Domain:** Network Security Intelligence & Traffic Analysis
