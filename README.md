@@ -98,12 +98,12 @@ An institutional-grade sentiment oracle bridging AI and blockchain.
 ## <img src="https://img.shields.io/badge/0x04-METRICS_&_ANALYTICS-000000?style=for-the-badge&logo=github&logoColor=00FF66" alt="Metrics" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadithya-vimal&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aadithya-vimal&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadithya-vimal&theme=radical&hide_border=true" width="49%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadithya-vimal&layout=compact&theme=radical&hide_border=true&langs_count=8" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=aadithya-vimal&layout=compact&theme=radical&hide_border=true&langs_count=8" width="49%" alt="Top Languages" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadithya-vimal&theme=react-dark&bg_color=1a1b27&hide_border=true" width="49%" alt="Activity Graph" />
 </p>
 
