@@ -86,10 +86,8 @@ Multi-provider AI orchestration (Gemini, Groq, Claude) with deterministic fallba
 
 <h3>📈 Live Contributions</h3>
 
-<!-- Live real-time GitHub contribution heatmap, rendered dynamically on visit -->
-<a href="https://github.com/aadithya-vimal">
-  <img src="https://ghchart.rshah.org/22d3ee/aadithya-vimal" width="860" alt="Aadithya Vimal's Live Contribution Heatmap" />
-</a>
+<!-- animated 3D pillar — generated from live GitHub data -->
+<img src="./assets/calendar-3d.svg" width="860" alt="3D contribution pillar — animated" />
 
 <br>
 <br>
