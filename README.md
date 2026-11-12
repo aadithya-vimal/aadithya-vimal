@@ -68,15 +68,6 @@
 
 <br />
 
-<!-- 3D Contribution Activity -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/calendar-3d.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/calendar-3d-light.svg" />
-  <img src="./assets/calendar-3d-light.svg" width="860" alt="3D Contribution Activity" />
-</picture>
-
-<br /><br />
-
 <!-- Open-Source Contributions -->
 <a href="https://github.com/dbwls99706/OpenSource-contribution-card">
   <picture>
@@ -87,6 +78,15 @@
 </a>
 <br />
 <sub>Open-source showcase via <a href="https://github.com/dbwls99706/OpenSource-contribution-card">OpenSource-Contribution-Card</a></sub>
+
+<br /><br />
+
+<!-- 3D Contribution Activity -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/calendar-3d.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/calendar-3d-light.svg" />
+  <img src="./assets/calendar-3d-light.svg" width="860" alt="3D Contribution Activity" />
+</picture>
 
 <br /><br />
 
