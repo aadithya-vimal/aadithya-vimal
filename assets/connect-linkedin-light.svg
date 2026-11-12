@@ -1,0 +1,17 @@
+<svg width="278" height="74" viewBox="0 0 278 74" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title id="title">LinkedIn</title>
+  <desc id="desc">in/aadithya-vimal</desc>
+
+  <rect width="278" height="74" rx="16" fill="#F5F5F7"/>
+  <rect x="0.5" y="0.5" width="277" height="73" rx="15.5" stroke="#E5E5EA"/>
+
+  <rect x="15" y="17" width="40" height="40" rx="10" fill="#0A66C2"/>
+  <g transform="translate(25, 27) scale(0.8333)">
+    <path d="M4.98 3.5C4.98 4.88 3.87 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1s2.48 1.12 2.48 2.5zM.32 8.17h4.36V22H.32V8.17zm7.4 0h4.18v1.89h.06c.58-1.1 2-2.26 4.12-2.26 4.41 0 5.22 2.9 5.22 6.67V22h-4.35v-6.68c0-1.59-.03-3.64-2.22-3.64-2.22 0-2.56 1.73-2.56 3.52V22H7.72V8.17z" fill="#FFFFFF"/>
+  </g>
+
+  <text x="66" y="33" fill="#1D1D1F" font-size="13.5" font-weight="600" letter-spacing="-0.15">LinkedIn</text>
+  <text x="66" y="50" fill="#6E6E73" font-size="11" font-weight="400">in/aadithya-vimal</text>
+
+  <path d="M254 33L260 33M260 33L260 39M260 33L253 40" stroke="#6E6E73" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

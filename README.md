@@ -101,15 +101,27 @@
 
 <!-- Connect -->
 <a href="https://aadithyavimal.pages.dev">
-  <img src="https://img.shields.io/badge/Website-aadithyavimal.pages.dev-1D1D1F?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/connect-website-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/connect-website-light.svg" />
+    <img src="./assets/connect-website-light.svg" width="278" alt="Website — aadithyavimal.pages.dev" />
+  </picture>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aadithya-vimal/">
-  <img src="https://img.shields.io/badge/LinkedIn-aadithya--vimal-1D1D1F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/connect-linkedin-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/connect-linkedin-light.svg" />
+    <img src="./assets/connect-linkedin-light.svg" width="278" alt="LinkedIn — aadithya-vimal" />
+  </picture>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:aadithyavimal.work@gmail.com">
-  <img src="https://img.shields.io/badge/Email-aadithyavimal.work%40gmail.com-1D1D1F?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/connect-email-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/connect-email-light.svg" />
+    <img src="./assets/connect-email-light.svg" width="278" alt="Email — aadithyavimal.work@gmail.com" />
+  </picture>
 </a>
 
 <br /><br />

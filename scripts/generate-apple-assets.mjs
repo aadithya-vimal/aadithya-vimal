@@ -459,6 +459,82 @@ function buildMarqueeSvg(icons, mode) {
 `;
 }
 
+// ------------------------------------------------------------ 5. Connect Cards --
+function buildConnectCardSvg({ title, subtitle, badgeBg, iconSvg }, mode) {
+  const p = PALETTES[mode];
+  const width = 278;
+  const height = 74;
+
+  return `<svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" font-family="${FONT_SANS}">
+  <title id="title">${escapeXml(title)}</title>
+  <desc id="desc">${escapeXml(subtitle)}</desc>
+
+  <rect width="${width}" height="${height}" rx="16" fill="${p.canvas}"/>
+  <rect x="0.5" y="0.5" width="${width - 1}" height="${height - 1}" rx="15.5" stroke="${p.border}"/>
+
+  <rect x="15" y="17" width="40" height="40" rx="10" fill="${badgeBg}"/>
+  ${iconSvg}
+
+  <text x="66" y="33" fill="${p.ink}" font-size="13.5" font-weight="600" letter-spacing="-0.15">${escapeXml(title)}</text>
+  <text x="66" y="50" fill="${p.inkMuted}" font-size="11" font-weight="400">${escapeXml(subtitle)}</text>
+
+  <path d="M254 33L260 33M260 33L260 39M260 33L253 40" stroke="${p.inkMuted}" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+`;
+}
+
+function writeConnectCards() {
+  const cards = [
+    {
+      name: 'website',
+      title: 'Website',
+      subtitle: 'aadithyavimal.pages.dev',
+      badgeBg: (mode) => (mode === 'dark' ? '#0A84FF' : '#0071E3'),
+      iconSvg: `<g transform="translate(24, 26)">
+    <circle cx="11" cy="11" r="8.5" stroke="#FFFFFF" stroke-width="1.65"/>
+    <ellipse cx="11" cy="11" rx="3.8" ry="8.5" stroke="#FFFFFF" stroke-width="1.45"/>
+    <line x1="2.8" y1="8.2" x2="19.2" y2="8.2" stroke="#FFFFFF" stroke-width="1.4"/>
+    <line x1="2.8" y1="13.8" x2="19.2" y2="13.8" stroke="#FFFFFF" stroke-width="1.4"/>
+  </g>`,
+    },
+    {
+      name: 'linkedin',
+      title: 'LinkedIn',
+      subtitle: 'in/aadithya-vimal',
+      badgeBg: () => '#0A66C2',
+      // Official LinkedIn "in" glyph paths (24x24 viewport scaled to 20x20 centered in 40x40 squircle)
+      iconSvg: `<g transform="translate(25, 27) scale(0.8333)">
+    <path d="M4.98 3.5C4.98 4.88 3.87 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1s2.48 1.12 2.48 2.5zM.32 8.17h4.36V22H.32V8.17zm7.4 0h4.18v1.89h.06c.58-1.1 2-2.26 4.12-2.26 4.41 0 5.22 2.9 5.22 6.67V22h-4.35v-6.68c0-1.59-.03-3.64-2.22-3.64-2.22 0-2.56 1.73-2.56 3.52V22H7.72V8.17z" fill="#FFFFFF"/>
+  </g>`,
+    },
+    {
+      name: 'email',
+      title: 'Email',
+      subtitle: 'aadithyavimal.work@gmail.com',
+      badgeBg: () => '#EA4335',
+      // Official Gmail M logo (simple-icons/gmail)
+      iconSvg: `<g transform="translate(24.5, 26.5) scale(0.875)">
+    <path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z" fill="#FFFFFF"/>
+  </g>`,
+    },
+  ];
+
+  for (const card of cards) {
+    for (const mode of ['light', 'dark']) {
+      const svg = buildConnectCardSvg(
+        {
+          title: card.title,
+          subtitle: card.subtitle,
+          badgeBg: card.badgeBg(mode),
+          iconSvg: card.iconSvg,
+        },
+        mode
+      );
+      fs.writeFileSync(path.join(ASSETS, `connect-${card.name}-${mode}.svg`), svg, 'utf8');
+    }
+  }
+}
+
 async function main() {
   fs.mkdirSync(ASSETS, { recursive: true });
 
@@ -489,6 +565,9 @@ async function main() {
   const icons = JSON.parse(fs.readFileSync(path.join(__dirname, 'stack-icons.json'), 'utf8'));
   fs.writeFileSync(path.join(ASSETS, 'logo-marquee-light.svg'), buildMarqueeSvg(icons, 'light'), 'utf8');
   fs.writeFileSync(path.join(ASSETS, 'logo-marquee.svg'), buildMarqueeSvg(icons, 'dark'), 'utf8');
+
+  // Connect Cards
+  writeConnectCards();
 
   console.log('Generated all Apple-inspired SVG assets in assets/.');
 }
