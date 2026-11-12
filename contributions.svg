@@ -1,0 +1,145 @@
+<svg width="860" height="189" viewBox="0 0 860 189" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Open-Source Contributions: 2 merged pull requests across 1 repositories" class="oss-card-cziabqi8m" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title>Open-Source Contributions</title>
+  <desc>2 merged pull requests across 1 repository, OSS score 40</desc>
+  <style>
+    .oss-card-cziabqi8m .bg-start { stop-color: #F5F5F7; }
+    .oss-card-cziabqi8m .bg-end { stop-color: #F5F5F7; }
+    .oss-card-cziabqi8m .outer-border { stroke: #E5E5EA; }
+    .oss-card-cziabqi8m .card-bg { fill: #FFFFFF; }
+    .oss-card-cziabqi8m .card-border { stroke: #E5E5EA; }
+    .oss-card-cziabqi8m .icon-bg { fill: #F2F2F7; }
+    .oss-card-cziabqi8m .title-text { fill: #1D1D1F; }
+    .oss-card-cziabqi8m .subtitle-text { fill: #0071E3; }
+    .oss-card-cziabqi8m .subtitle-icon { fill: #0071E3; }
+    .oss-card-cziabqi8m .card-title { fill: #1D1D1F; }
+    .oss-card-cziabqi8m .pr-number { fill: #0071E3; }
+    .oss-card-cziabqi8m .card-text { fill: #6E6E73; }
+    .oss-card-cziabqi8m .badge-bg { fill: #E8F2FF; }
+    .oss-card-cziabqi8m .badge-text { fill: #0071E3; }
+    .oss-card-cziabqi8m .date-icon { fill: #86868B; }
+    .oss-card-cziabqi8m .date-text { fill: #86868B; }
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    .oss-card-cziabqi8m .card {
+      animation: fadeIn 0.4s ease-out forwards;
+      opacity: 0;
+    }
+    .oss-card-cziabqi8m .card-0 { animation-delay: 0s; }
+    .oss-card-cziabqi8m .card-1 { animation-delay: 0.1s; }
+  </style>
+  <defs>
+    <linearGradient id="bgGrad-cziabqi8m" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" class="bg-start"/>
+      <stop offset="100%" class="bg-end"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="189" fill="url(#bgGrad-cziabqi8m)" rx="16"/>
+  <rect class="outer-border" x="0.5" y="0.5" width="859" height="188" rx="15.5" fill="none" stroke-width="1"/>
+  <g transform="translate(18, 23)">
+    <text class="title-text" font-size="18" font-weight="700">
+      Open-Source Contributions
+    </text>
+    <g transform="translate(0, 26)">
+      <svg width="16" height="16" viewBox="0 0 20 20"><g class="subtitle-icon"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></g></svg>
+      <text class="subtitle-text" x="20" y="12" font-size="12" font-weight="600">
+        2 PRs Merged · 1 Repo
+      </text>
+    </g>
+    <g transform="translate(744, 5)">
+      <rect class="badge-bg" width="80" height="24" rx="12"/>
+      <text class="badge-text" x="40" y="16" font-size="11" font-weight="800" text-anchor="middle">
+        Score: 40
+      </text>
+    </g>
+  </g>
+  <g transform="translate(18, 76)" class="card card-0">
+    <rect class="card-bg" width="406" height="95" rx="12"/>
+    <rect class="card-border" width="406" height="95" rx="12" fill="none" stroke-width="1"/>
+
+    <!-- Repo Icon -->
+    <g transform="translate(14, 14)">
+      <defs>
+        <clipPath id="circleView-cziabqi8m-0">
+          <circle cx="14" cy="14" r="14"/>
+        </clipPath>
+      </defs>
+      <circle class="icon-bg" cx="14" cy="14" r="14"/>
+      <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAIAAAADnC86AAADtElEQVR4nOyWS0g6axjGzRkjNclMu1BUtAhqE11cBG0yaR0tBIkukEW0DGnZvkW3TSujFm2CNoVgtLEwyiwJQq1Iw0tSYCTUbCpjDuY8ipdpZupw/hz4/94W7/e9z/M9zDDNKBb9If4G/2fBJBpe1NXV6XS6jo6OhoYGpVIpEoni8XgoFHK73Xa7PRqNQvgvQRDE0NDQ0dER/S0Oh8NoNBIEAd/v0Ov1V1dXOJwbn8/X19cH948gSXJ5eRkHCmNpaYkkyZ+kSqVSm82Gc36CzWaTyWQ4jx8kSf4yNfW3t7cn7LoXFxfTZpqmPz4+0HKTI15ZWcGpXOh0OriSlUgkVCqVWq0eHx+/u7ujafrz8/Ph4cHr9Xo8nvv7+0QiQdN0IBAwmUwajUahULy/v8OdrP7+fpzNDkEQXq8XlmRFIhEMRXK5XK/Xl5aWYiNZJSUlPT09crkcG6JAIAB3sm5ubrhvuNFohJ7B7/djyJfr62u4GUZHRzFkweFwQMzw+voq6J1AEARFUXAzuFwuzAtRW1sLZYbT01OhwYeHh3BnaGpqgiSP4eFhyDL09vZizhetVgt3hsnJSdavU1dXF1qGaDRqt9ux4svZ2dnt7S1WDJ2dnazBjY2NaBkuLi7QCsPtdqNlyLnVWcEajQYtQzweRyuMl5cXtAypz2jhYLE4aykSiaqqqtAKo7KyEi1DUVERa/Dz8zNaBq1WK5FIsOKLWCzu7u7GioGiKNbgcDiMlqG8vNxgMGDFl8HBwfxbFQwG0eYxNTWFhz9DJBKpqKiAhBuVShUMBuHOMDMzA0kezc3NkGXhdDp5Zms0GqfTCV8W7e3tUBXi8vISSjoej7+9vX21dDgcNhgM+U9fGpIkR0ZGotEo3FkEAgEIWZienv5S0vv7+xKJRKlUbm9vw06HQqHV1dWWlhbIk9Xa2rq+vv74+AhVAWZnZyFnQSqVRiKR9FVWV1dLJJLj42OcQG9tbeW/und3dzEvQCwWUygU0LJjMBhgoRcWFlL/zTs7O36/f35+vuCXta2tDY4CTExMQMjF5ubml4WmKKq+vh7b3/H09ISgLKxWKyQ8kMlk6Yfz/Pw8/zWUj8/nQ1YGj8eT86bkLqVSeXJykn68LRbL3NycxWIpKyuDhCPY4/HU1NRgLgSpVLqxsYFzGNRqNebfBVutVsHXmlMDAwOpH5epUqlUmGSR/okYi8VMJhO2f0dxcfHY2NjBwcHa2hr2cjGbzS6Xy2w28/rP+YMl5pj/Df7/B/8zAFtffAf+KtfNAAAAAElFTkSuQmCC" x="0" y="0" width="28" height="28" clip-path="url(#circleView-cziabqi8m-0)"/>
+    </g>
+
+    <!-- Repo Name & PR Number -->
+    <text class="card-title" x="50" y="22" font-size="12" font-weight="600">
+      github/explore
+    </text>
+    <text class="pr-number" x="50" y="38" font-size="11" font-weight="500">
+      #5376
+    </text>
+
+    <!-- PR Title -->
+    <text class="card-text" x="50" y="52" font-size="10">
+      Curate digital forensics topic
+    </text>
+
+    <!-- Contribution Type Badge -->
+    <g transform="translate(14, 70)">
+      <rect class="badge-bg" width="65" height="18" rx="4"/>
+      <text class="badge-text" x="32.5" y="13" font-size="9" font-weight="700" text-anchor="middle">
+        Merged
+      </text>
+    </g>
+
+    <!-- Date -->
+    <g transform="translate(85, 70)">
+      <svg width="12" height="12" viewBox="0 0 20 20"><g class="date-icon"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></g></svg>
+      <text class="date-text" x="16" y="10" font-size="9">
+        Sep 5, 2026
+      </text>
+    </g>
+  </g>
+  <g transform="translate(436, 76)" class="card card-1">
+    <rect class="card-bg" width="406" height="95" rx="12"/>
+    <rect class="card-border" width="406" height="95" rx="12" fill="none" stroke-width="1"/>
+
+    <!-- Repo Icon -->
+    <g transform="translate(14, 14)">
+      <defs>
+        <clipPath id="circleView-cziabqi8m-1">
+          <circle cx="14" cy="14" r="14"/>
+        </clipPath>
+      </defs>
+      <circle class="icon-bg" cx="14" cy="14" r="14"/>
+      <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAIAAAADnC86AAADtElEQVR4nOyWS0g6axjGzRkjNclMu1BUtAhqE11cBG0yaR0tBIkukEW0DGnZvkW3TSujFm2CNoVgtLEwyiwJQq1Iw0tSYCTUbCpjDuY8ipdpZupw/hz4/94W7/e9z/M9zDDNKBb9If4G/2fBJBpe1NXV6XS6jo6OhoYGpVIpEoni8XgoFHK73Xa7PRqNQvgvQRDE0NDQ0dER/S0Oh8NoNBIEAd/v0Ov1V1dXOJwbn8/X19cH948gSXJ5eRkHCmNpaYkkyZ+kSqVSm82Gc36CzWaTyWQ4jx8kSf4yNfW3t7cn7LoXFxfTZpqmPz4+0HKTI15ZWcGpXOh0OriSlUgkVCqVWq0eHx+/u7ujafrz8/Ph4cHr9Xo8nvv7+0QiQdN0IBAwmUwajUahULy/v8OdrP7+fpzNDkEQXq8XlmRFIhEMRXK5XK/Xl5aWYiNZJSUlPT09crkcG6JAIAB3sm5ubrhvuNFohJ7B7/djyJfr62u4GUZHRzFkweFwQMzw+voq6J1AEARFUXAzuFwuzAtRW1sLZYbT01OhwYeHh3BnaGpqgiSP4eFhyDL09vZizhetVgt3hsnJSdavU1dXF1qGaDRqt9ux4svZ2dnt7S1WDJ2dnazBjY2NaBkuLi7QCsPtdqNlyLnVWcEajQYtQzweRyuMl5cXtAypz2jhYLE4aykSiaqqqtAKo7KyEi1DUVERa/Dz8zNaBq1WK5FIsOKLWCzu7u7GioGiKNbgcDiMlqG8vNxgMGDFl8HBwfxbFQwG0eYxNTWFhz9DJBKpqKiAhBuVShUMBuHOMDMzA0kezc3NkGXhdDp5Zms0GqfTCV8W7e3tUBXi8vISSjoej7+9vX21dDgcNhgM+U9fGpIkR0ZGotEo3FkEAgEIWZienv5S0vv7+xKJRKlUbm9vw06HQqHV1dWWlhbIk9Xa2rq+vv74+AhVAWZnZyFnQSqVRiKR9FVWV1dLJJLj42OcQG9tbeW/und3dzEvQCwWUygU0LJjMBhgoRcWFlL/zTs7O36/f35+vuCXta2tDY4CTExMQMjF5ubml4WmKKq+vh7b3/H09ISgLKxWKyQ8kMlk6Yfz/Pw8/zWUj8/nQ1YGj8eT86bkLqVSeXJykn68LRbL3NycxWIpKyuDhCPY4/HU1NRgLgSpVLqxsYFzGNRqNebfBVutVsHXmlMDAwOpH5epUqlUmGSR/okYi8VMJhO2f0dxcfHY2NjBwcHa2hr2cjGbzS6Xy2w28/rP+YMl5pj/Df7/B/8zAFtffAf+KtfNAAAAAElFTkSuQmCC" x="0" y="0" width="28" height="28" clip-path="url(#circleView-cziabqi8m-1)"/>
+    </g>
+
+    <!-- Repo Name & PR Number -->
+    <text class="card-title" x="50" y="22" font-size="12" font-weight="600">
+      github/explore
+    </text>
+    <text class="pr-number" x="50" y="38" font-size="11" font-weight="500">
+      #5375
+    </text>
+
+    <!-- PR Title -->
+    <text class="card-text" x="50" y="52" font-size="10">
+      Curate detection engineering topic
+    </text>
+
+    <!-- Contribution Type Badge -->
+    <g transform="translate(14, 70)">
+      <rect class="badge-bg" width="65" height="18" rx="4"/>
+      <text class="badge-text" x="32.5" y="13" font-size="9" font-weight="700" text-anchor="middle">
+        Merged
+      </text>
+    </g>
+
+    <!-- Date -->
+    <g transform="translate(85, 70)">
+      <svg width="12" height="12" viewBox="0 0 20 20"><g class="date-icon"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></g></svg>
+      <text class="date-text" x="16" y="10" font-size="9">
+        Sep 5, 2026
+      </text>
+    </g>
+  </g>
+</svg>

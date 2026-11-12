@@ -1,0 +1,37 @@
+<svg width="860" height="216" viewBox="0 0 860 216" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title id="title">Aadithya Vimal</title>
+  <desc id="desc">Full-Stack Engineer, Security Researcher, and Systems Architect.</desc>
+  <defs>
+    <radialGradient id="heroSpec-light" cx="14%" cy="0%" r="85%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="860" height="216" rx="20" fill="#F5F5F7"/>
+  <rect width="860" height="216" rx="20" fill="url(#heroSpec-light)"/>
+  <rect x="0.5" y="0.5" width="859" height="215" rx="19.5" stroke="#E5E5EA"/>
+
+  <text x="40" y="50" fill="#6E6E73" font-size="11" font-weight="600" letter-spacing="1.8">
+    FULL-STACK ENGINEER  ·  SECURITY RESEARCHER  ·  SYSTEMS ARCHITECT
+  </text>
+
+  <text x="40" y="96" fill="#1D1D1F" font-size="38" font-weight="700" letter-spacing="-0.8">
+    Aadithya Vimal
+  </text>
+
+  <text x="40" y="130" fill="#515154" font-size="15" font-weight="400">
+    Engineering resilient web systems, threat-aware architectures, and applied intelligence.
+  </text>
+
+  <line x1="40" y1="158" x2="820" y2="158" stroke="#E5E5EA" stroke-width="1"/>
+
+  <circle cx="45" cy="184" r="4" fill="#0071E3"/>
+  <text x="58" y="188" fill="#515154" font-size="12.5" font-weight="500">
+    @aadithya-vimal  ·  @alesaai  ·  aadithyavimal.pages.dev
+  </text>
+
+  <text x="820" y="188" fill="#6E6E73" font-size="12" font-weight="500" text-anchor="end">
+    Security · Systems · Applied AI
+  </text>
+</svg>
